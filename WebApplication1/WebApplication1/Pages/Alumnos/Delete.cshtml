@@ -1,0 +1,16 @@
+﻿@page
+@model WebApplication1.Pages.Alumnos.DeleteModel
+@{
+
+}
+
+<h1>
+	Confirmación de borrado
+</h1>
+<div class="alert alert-danger">
+	<h5>Estas seguro de que quieres eliminar a @Model.alumno.Name</h5>
+	<form method="post">
+		<button type="submit" class="btn btn-danger">Si</button>
+		<a asp-page="/Alumnos/Index" class="btn btn-success">No</a>
+	</form>
+</div>

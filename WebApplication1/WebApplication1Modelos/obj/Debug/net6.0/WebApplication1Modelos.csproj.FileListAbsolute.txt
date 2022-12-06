@@ -1,0 +1,24 @@
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\bin\Debug\net6.0\WebApplication1Modelos.deps.json
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\bin\Debug\net6.0\WebApplication1Modelos.dll
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\bin\Debug\net6.0\WebApplication1Modelos.pdb
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.csproj.AssemblyReference.cache
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.AssemblyInfoInputs.cache
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.AssemblyInfo.cs
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.csproj.CoreCompileInputs.cache
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.dll
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\refint\WebApplication1Modelos.dll
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.pdb
+D:\VisualStudio\Projects\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\ref\WebApplication1Modelos.dll
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\bin\Debug\net6.0\WebApplication1Modelos.deps.json
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\bin\Debug\net6.0\WebApplication1Modelos.dll
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\bin\Debug\net6.0\WebApplication1Modelos.pdb
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.csproj.AssemblyReference.cache
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.AssemblyInfoInputs.cache
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.AssemblyInfo.cs
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.csproj.CoreCompileInputs.cache
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.dll
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\refint\WebApplication1Modelos.dll
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\WebApplication1Modelos.pdb
+C:\proyectos NET\WebApplication1\WebApplication1Modelos\obj\Debug\net6.0\ref\WebApplication1Modelos.dll

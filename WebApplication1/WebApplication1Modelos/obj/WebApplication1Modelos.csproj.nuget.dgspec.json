@@ -1,0 +1,69 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\proyectos NET\\WebApplication1\\WebApplication1Modelos\\WebApplication1Modelos.csproj": {}
+  },
+  "projects": {
+    "C:\\proyectos NET\\WebApplication1\\WebApplication1Modelos\\WebApplication1Modelos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\proyectos NET\\WebApplication1\\WebApplication1Modelos\\WebApplication1Modelos.csproj",
+        "projectName": "WebApplication1Modelos",
+        "projectPath": "C:\\proyectos NET\\WebApplication1\\WebApplication1Modelos\\WebApplication1Modelos.csproj",
+        "packagesPath": "C:\\Users\\propietario\\.nuget\\packages\\",
+        "outputPath": "C:\\proyectos NET\\WebApplication1\\WebApplication1Modelos\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\propietario\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc.DataAnnotations": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
